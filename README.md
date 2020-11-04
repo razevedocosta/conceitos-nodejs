@@ -7,6 +7,8 @@ Desafio sobre criação de rotas e funcionalidades no node.js aplicados no Bootc
 
 A partir de um template foi solicitado a criação das rotas para utilização das funcionalidades acima. Com atendimento às restrições exigidas e, necessidade de aprovação nos testes que foram pré-definidos e só precisamos executar para descobrirr se estava apto ou não.
 
+![rotas](https://github.com/rocketseat-education/bootcamp-gostack-desafios/blob/master/desafio-conceitos-nodejs/assets/nodejs-example.png)
+
 Algumas configurações iniciais para se começar a utilizar **node.js** no desenvolvimento são:
 
 - Instalação do [yarn](https://yarnpkg.com/) para gerenciamento de pacotes
@@ -22,3 +24,4 @@ yarn add express
 ```
 yarn add nodemom -D
 ```
+
